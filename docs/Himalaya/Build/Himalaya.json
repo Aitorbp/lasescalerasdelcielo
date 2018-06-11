@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Himalaya.data.unityweb",
+"asmCodeUrl": "Himalaya.asm.code.unityweb",
+"asmMemoryUrl": "Himalaya.asm.memory.unityweb",
+"asmFrameworkUrl": "Himalaya.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
