@@ -313,11 +313,6 @@
 	.align-right {
 		text-align: right;
 	}
-	div
-	{
-	text-align: justify;
-	texto-justify: inter-palabra;
-	}
 /* Form */
 
 	form {
